@@ -1,0 +1,67 @@
+
+.container{
+    width: 1455px; 
+    height: 210px;
+    background-color:rgb(236, 197, 171) ;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.title{
+    font-size: 60px;
+    color:bisque;
+    text-transform: uppercase;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-rendering: geometricPrecision;
+    text-decoration-line:underline ;
+    border: 8px solid rgb(0, 0, 0);
+    padding: 10px; 
+    background-color:rgb(235, 193, 157);
+    color:rgb(0, 0, 0);
+    box-shadow: 3px 3px 5px;
+}
+.food{
+    width: 600px;
+    margin-left: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 42px;
+    border-width: 5px 5px 5px 5px;
+    border-color: black;
+    border-style: inset ;
+    box-sizing: 100px;
+    box-shadow: 5px 5px 5px 5px;
+   
+    
+}
+.image{
+    width: 180px;
+    padding-left: 40px;
+    border-bottom-right-radius: 40px ;
+    padding-top: 10px;
+}
+
+.section1{  
+    width: 716px; 
+    height: 1000px;
+    background-color:rgb(236, 197, 171) ;
+    
+    border-width: 5px 5px 5px 5px;
+    border-color: black;
+    border-style: inset ;
+    box-shadow: 5px 5px 5px 5px;
+    position: absolute;
+    top: 240px;
+}
+
+.section2{
+    width: 716px; 
+    height: 1000px;
+    background-color:rgb(236, 197, 171) ;
+    border-width: 5px 5px 5px 5px;
+    border-color: black;
+    border-style: inset ;
+    box-shadow: 5px 5px 5px 5px;
+    position: absolute;
+    top: 240px;
+    left: 745px;
+}
